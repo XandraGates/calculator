@@ -1,0 +1,29 @@
+.calculator-body {
+  background-color: black;
+  width: 50%;
+  margin: auto;
+}
+
+#totalScreen {
+  background-color: yellow;
+  width: 70%;
+  height: 5rem;
+  text-align: center;
+  margin: 5%;
+}
+
+.btn {
+  display: inline-block;
+  margin: auto;
+  width: 5rem;
+  height: 3rem;
+  margin-bottom: 2rem;
+  cursor: pointer;
+}
+
+.col {
+  margin: 1rem;
+  width: 2rem;
+  flex-grow: 0;
+  margin: auto;
+}
